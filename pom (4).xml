@@ -19,7 +19,7 @@
 
 	<properties>
 		<sonar.host.url>http://54.179.200.172:9000/</sonar.host.url>
-		<sonar.password>squ_f9af5c56f7fe2d141af2fb4fb973b1848e19fbdf</sonar.password>
+		<sonar.password>squ_89ebc6670b1ae46190fe8f86af1ae5fd08748d00</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
                 <maven.compiler.target>11</maven.compiler.target>
